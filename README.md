@@ -16,7 +16,7 @@ Built to understand what it really means to write software where nanoseconds mat
 | **Risk Check Pass Rate** | 99.7% |
 | **Heap Allocations (hot path)** | 0 |
 
-> Benchmarked on [your CPU here, e.g., AMD Ryzen 9 5900X / Intel i7-12700K], Ubuntu 22.04, compiled with `-O2 -march=native`.
+
 
 ---
 
